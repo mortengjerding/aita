@@ -15,6 +15,7 @@ aita = "aita.console:main"
 [tool.poetry.dependencies]
 python = "^3.7"
 click = "^8.0.3"
+requests = "^2.26.0"
 
 [tool.poetry.dev-dependencies]
 
