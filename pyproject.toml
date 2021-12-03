@@ -9,6 +9,9 @@ repository = "https://github.com/mortengjerding/aita"
 authors = ["Morten Gjerding <mortengjerding@gmail.com>"]
 keywords = ["aita"]
 
+[tool.poetry.scripts]
+hypermodern-python = "hypermodern_python.console:main"
+
 [tool.poetry.dependencies]
 python = "^3.7"
 click = "^8.0.3"
