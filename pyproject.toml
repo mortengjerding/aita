@@ -1,8 +1,13 @@
 [tool.poetry]
 name = "aita"
 version = "0.1.0"
-description = ""
+description = "AITA?"
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/mortengjerding/aita"
+repository = "https://github.com/mortengjerding/aita"
 authors = ["Morten Gjerding <mortengjerding@gmail.com>"]
+keywords = ["aita"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
