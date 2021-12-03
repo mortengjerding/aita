@@ -10,7 +10,7 @@ authors = ["Morten Gjerding <mortengjerding@gmail.com>"]
 keywords = ["aita"]
 
 [tool.poetry.scripts]
-hypermodern-python = "hypermodern_python.console:main"
+aita = "aita.console:main"
 
 [tool.poetry.dependencies]
 python = "^3.7"
